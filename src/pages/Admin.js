@@ -5,7 +5,7 @@ function Admin() {
   const [clients, setClients] = useState([
     {
       id: 1,
-      name: "John Doe",
+      name: "John J Doe",
       investments: [
         {
           id: 1,
